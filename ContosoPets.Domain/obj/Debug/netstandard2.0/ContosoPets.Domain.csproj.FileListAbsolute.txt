@@ -1,0 +1,8 @@
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.deps.json
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.dll
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.pdb
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.csprojAssemblyReference.cache
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.AssemblyInfoInputs.cache
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.AssemblyInfo.cs
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.dll
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.pdb

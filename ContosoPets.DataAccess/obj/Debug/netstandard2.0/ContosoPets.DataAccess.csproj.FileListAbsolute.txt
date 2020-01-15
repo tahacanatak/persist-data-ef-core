@@ -1,0 +1,11 @@
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.deps.json
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.dll
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.pdb
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.Domain.dll
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.Domain.pdb
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.csprojAssemblyReference.cache
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.AssemblyInfo.cs
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.csproj.CopyComplete
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.dll
+C:\Users\Tahacan Atak\Desktop\persist-data-ef-core\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.pdb
